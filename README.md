@@ -1,16 +1,19 @@
-# db_practise
+# 📝 Notes App – Flutter CRUD Project
 
-A new Flutter project.
+A clean and modern **Flutter Notes Application** demonstrating full **CRUD (Create, Read, Update, Delete)** functionality using a local database.  
+This project is designed with a **simple architecture**, **attractive UI**, and **real-world use cases**, making it perfect for learning and interviews.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✨ **Clean & Modern UI**
+- ➕ Add Notes
+- ✏️ Edit Existing Notes
+- 🗑️ Delete Notes with Confirmation
+- 💾 Local Database using **SQLite**
+- ⚡ Fast & Responsive UI
+- 📱 Mobile-friendly Design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
